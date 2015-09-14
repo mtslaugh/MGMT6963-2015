@@ -1,0 +1,19 @@
+course: "MGMT6963"
+year: "2015"
+semester: "Fall"
+
+# Role should either be Instructor or Student or TA
+role: "Student" 
+name: "Matthew Slaughter"
+email: "slaugm@rpi.edu"
+description: "12.4 is a number almost (but not quite) rounds up to 13."
+hobbies: "Myriad and sundry." 
+picture: "/img/matthewslaughter.jpg" 
+github_username:  "mtsgithub"
+twitter_username: "M_T_Slaughter"
+linkedin_username: "thttps://www.linkedin.com/in/matthewslaughteranalytics"
+website: ""
+
+#Additional student info
+desiredJob: "I am looking for a job that allows me to solve problems with data and statistics."
+program: "MS Business Analytics."
